@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WTGong10
+- 👋 Hi, I’m @wentaogong221
 - 👀 I’m interested in CFD, AQUATIC PHYSICS, RIVER, OCEAN
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on RESEARCH  
